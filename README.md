@@ -14,3 +14,7 @@ conductivity and electrochemical response for Hg²⁺ detection via differential
 adsorption studies demonstrated that the composite exhibited a higher Hg²⁺ removal capacity compared to pure bentonite, fitting the Freundlich model, which suggests adsorption on 
 heterogeneous sites with variable affinities. These findings highlight the potential of the B/MIL-68(Al) composite as a promising material for environmental remediation and the 
 development of sensitive and selective electrochemical sensors for Hg²⁺ detection in aqueous media.
+
+
+# Contents
+DAtaset includes all materials characterization files (Origin file), a separate 2 files for nitrogen adsorption (XLS), and another file containing electrochemical experiments (origin file)
