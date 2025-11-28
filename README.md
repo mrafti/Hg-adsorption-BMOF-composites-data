@@ -1,5 +1,5 @@
 # Hg-adsorption-BMOF-composites-data
-Data Availability for Murcia Diaz et al - Discover Electrochemistry 2025
+Data Availability for Murcia Diaz et al - 2025
 This repository corresponds to the manuscript entitled "SYNTHESIS OF B/MIL-68(AL) COMPOSITE FOR Hg2+ ADSORPTION AND ELECTROCHEMICAL DETECTION"
 by Paula Andrea Murcia Diaz1, Jaime Fernando Martínez Suarez1, Lisette Ruiz Bravo1, Jimena Tuninetti2, Matias Rafti2 //
 1 Programa de Química, Facultad de Ciencias Básicas, Universidad de la Amazonía, Calle 17 – diagonal 17 carrera 3F, Campus Porvenir, Florencia, Colombia
